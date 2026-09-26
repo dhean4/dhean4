@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-Senior full-stack engineer. For six-plus years I've built B2B SaaS and data-heavy products
+I am a Product engineer. For six-plus years I've built B2B SaaS and data-heavy products
 with remote teams, and lately I've found the work I enjoy most on the AI side: computer-vision
 pipelines that feed real dashboards, tool-calling and MCP servers, and agents that earn a
 person's trust one decision at a time. I like building things people lean on every day, and
