@@ -1,9 +1,10 @@
 # Hi, I'm Daniel
 
-Senior full-stack engineer, six-plus years of shipping B2B SaaS, fintech and data-heavy
-products with remote teams, and for the last while mostly working on the AI side of things:
-computer-vision pipelines feeding real dashboards, tool-calling and MCP servers, and agents
-that have to be trusted with something that costs money.
+Senior full-stack engineer. For six-plus years I've built B2B SaaS and data-heavy products
+with remote teams, and lately I've found the work I enjoy most on the AI side: computer-vision
+pipelines that feed real dashboards, tool-calling and MCP servers, and agents that earn a
+person's trust one decision at a time. I like building things people lean on every day, and
+I like getting a little better at this every week.
 
 I'm comfortable in Python (FastAPI), Node (NestJS, Express), Java (Spring Boot) and .NET on
 the back end, React/Next.js and Angular on the front, Postgres and event-driven plumbing in
@@ -18,7 +19,7 @@ to get better at. The projects below are how I'm doing that in public.
 
 **[ShelfSense](https://github.com/dhean4/shelfsense)** — retail and cold-chain operations
 for small distributors in Lagos. A field agent photographs a shelf, the system reads it,
-drafts the reorder, and holds anything over a spending limit for a manager to approve.
+drafts the reorder, and holds the bigger calls for a manager to approve.
 Fridges stream temperatures; a sustained fault becomes a technician proposal, also held for
 approval. Multi-tenant Postgres with row-level security, a 100-case eval set replayed in CI
 with a regression gate, every model call traced and priced.
