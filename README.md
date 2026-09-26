@@ -45,8 +45,7 @@ Angular signals. [Live](https://task-manager-eight-phi-65.vercel.app) · _Angula
 
 ## Writing and research
 
-- [Medium](https://medium.com/@danielibisagba) — notes on building AI systems that know
-  when to ask a human.
+- [Medium](https://medium.com/@danielibisagba)
 - [Comparative analysis of AI-based search algorithms in solving 8 puzzle problems](https://link.springer.com/article/10.1186/s42269-024-01274-3)
   — Bulletin of the National Research Centre (SpringerOpen), 2024. Co-authored during my
   computer science degree. I'm now pursuing a master's in computer science with a research
