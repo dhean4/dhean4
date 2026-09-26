@@ -39,7 +39,7 @@ Angular signals. [Live](https://task-manager-eight-phi-65.vercel.app) · _Angula
 - [curate](https://github.com/dhean4/label-error-triage) — ranks the labels in a detection
   dataset most worth a human's attention, then measures whether fixing them moved the model.
 - [ragbench](https://github.com/dhean4/ragbench) — a harness for measuring how RAG pipeline
-  choices change answer quality, cost and latency, with confidence intervals.
+  choices change answer quality, latency and token usage, with confidence intervals.
 - [expense-tracker-api](https://github.com/dhean4/expense-tracker-api) — a small, complete
   REST API in ASP.NET Core with EF Core, Postgres and JWT auth.
 
