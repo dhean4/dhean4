@@ -7,7 +7,7 @@ person's trust one decision at a time. I like building things people lean on eve
 I like getting a little better at this every week.
 
 I'm comfortable in Python (FastAPI), Node (NestJS, Express), Java (Spring Boot) and .NET on
-the back end, React/Next.js and Angular on the front, Postgres and event-driven plumbing in
+the back end, React/Next.js and Angular on the frontend, Postgres and event-driven plumbing in
 between, deployed on AWS, GCP or Azure with GitHub Actions. I care less about which stack
 than about whether the thing holds up when a real person leans on it, and I try to write
 READMEs that say what is not finished as clearly as what is.
